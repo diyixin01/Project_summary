@@ -23,6 +23,21 @@ implement the naive birthday attack of reduced SM3
 
 __Link:__ https://github.com/diyixin01/SM3-Birthday_attack
 
+
+
+
+
+## SM3-rho-attack
+
+__Project:__
+implement the Rho method of reduced SM3
+
+
+__Link:__ https://github.com/diyixin01/SM3-rho-attack
+
+
+
+
 ## SM3-_LenExtenAttack
 
 __Project:__ implement length extension attack for SM3
