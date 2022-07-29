@@ -1,5 +1,14 @@
+# 作者信息
+
+姓名：刘金源
+学号：202000460082
+组队情况：未参与组队，全部由本人完成
+单位：山东大学青岛校区网络空间安全学院2020级本科1班
+github账户：Github账户地址：https://github.com/diyixin01
+
+
 # 项目汇总
-本次实验共完成18个项目(部分项目合并在一个仓库中)，各项目说明与仓库链接如下：
+本次实验共完成19个项目(有些项目合并在一个仓库中)，各项目说明与仓库链接如下：
 
 ## SM3_collision
 
@@ -104,24 +113,12 @@ __Project:__ research report on MPT
 
 __Link:__ https://github.com/baekhunee/MPT_report
 
-# 其他说明
-## 个人信息
-姓名：权周雨
 
-学号：202000460021
-
-单位: 山东大学青岛校区网络空间安全学院2020级本科2班
-
-Github账户地址：https://github.com/baekhunee
-
-本次实验未参与小组
 
 ## 未完成项目
 1、Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. 
 
 2、Find a 64-byte message under some k fulfilling that their hash value is symmetrical.
 
-3、Write a circuit to prove that your CET6 grade is larger than 425. 
-
 ## 运行指导
-多数代码可以直接运行，涉及网络通信的代码已在各项目的README.md文件中给予运行说明
+在每个项目中均有运行指导及代码截图，若无运行指导，说明可以直接运行。
