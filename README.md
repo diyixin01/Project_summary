@@ -14,110 +14,121 @@ github账户：Github账户地址：https://github.com/diyixin01
 # 项目汇总
 本次实验共完成19个项目(有些项目合并在一个仓库中)，各项目说明与仓库链接如下：
 
-## SM3_collision
+## SM3-Birthday_attack
 
 __Project:__
 
-1、implement the naive birthday attack of reduced SM3
+implement the naive birthday attack of reduced SM3
 
-2、implement the Rho method of reduced SM3
 
-__Link:__ https://github.com/baekhunee/SM3_collision
+__Link:__ https://github.com/diyixin01/SM3-Birthday_attack
 
-## SM3_LengthExtension
+## SM3-_LenExtenAttack
 
 __Project:__ implement length extension attack for SM3
 
-__Link:__ https://github.com/baekhunee/SM3_LengthExtension
+__Link:__ https://github.com/diyixin01/SM3-_LenExtenAttack
 
-## SM3_speedup
+## SM3_try_fast
 
 __Project:__ do your best to optimize SM3 implementation (software)
 
-__Link:__ https://github.com/baekhunee/SM3_speedup
+__Link:__ https://github.com/diyixin01/SM3_try_fast
 
-## Merkle_Tree
+
+## SM3-openSSL
+
+__Project:__ do your best to optimize SM3 implementation (software)
+
+__Link:__ https://github.com/diyixin01/SM3-openSSL
+
+
+
+## Merkel_tree
 
 __Project:__ Impl Merkle Tree following RFC6962
 
-__Link:__ https://github.com/baekhunee/Merkle_Tree
+__Link:__ https://github.com/diyixin01/Merkel_tree
 
-## SM4_speedup
+## SM4_-more_thread
 
-__Project:__ 
-1、Impl: The T-table Method
+__Project:__ use more-thread to fasten SM4
 
-2、Parallel with SIMD Instruction（SM4）
+__Link:__ https://github.com/diyixin01/SM4_-more_thread
 
-__Link:__ https://github.com/baekhunee/SM4_speedup
-
-## SM2_impl
+## SM2_implementation
 
 __Project:__ impl sm2 with RFC6979
 
-__Link:__ https://github.com/baekhunee/SM2_impl
+__Link:__ https://github.com/diyixin01/SM2_implementation
 
-## SM2_ECMH
+## SM2-application-ECMH
 
 __Project:__ Implement the above ECMH scheme
 
-__Link:__ https://github.com/baekhunee/SM2_ECMH
+__Link:__ https://github.com/diyixin01/SM2-application-ECMH
 
-## SM2_PGP
+## SM2-application-PGP
 
 __Project:__ Implement a PGP scheme with SM2
 
-__Link:__ https://github.com/baekhunee/SM2_PGP
+__Link:__ https://github.com/diyixin01/SM2-application-PGP
 
-## Deduce_pk
+## Deduce-public-key-from-signature
 
 __Project:__ deduce publickey from signature
 
-__Link:__ https://github.com/baekhunee/Deduce_pk
+__Link:__ https://github.com/diyixin01/Deduce-public-key-from-signature
 
-## SM2_twoparty_dec
+## SM2-2p
 
-__Project:__ implement sm2 2P decrypt with real network communication
+__Project:__ 
+1.implement sm2 2P decrypt with real network communication
 
-__Link:__ https://github.com/baekhunee/SM2_twoparty_dec
+2.implement sm2 2P sign with real network communication
 
-## SM2_twoparty_sign
+__Link:__ https://github.com/diyixin01/SM2-2p
 
-__Project:__ implement sm2 2P sign with real network communication
-
-__Link:__ https://github.com/baekhunee/SM2_twoparty_sign
-
-## SM2_pitfalls
+## SM2-pitfalls
 
 __Project:__ verify the above pitfalls with proof-of-concept code
 
-__Link:__ https://github.com/baekhunee/SM2_pitfalls
+__Link:__ https://github.com/diyixin01/SM2-pitfalls
 
-## SM2_PoC
+## PoC-impl-
 
 __Project:__ PoC impl of the scheme, or do implement analysis by Google
 
-__Link:__ https://github.com/baekhunee/SM2_PoC
+__Link:__ https://github.com/diyixin01/PoC-impl-
 
-## Bitcoin_parse_tx
+## send_a_tx
 
 __Project:__ send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
 
-__Link:__ https://github.com/baekhunee/Bitcoin_parse_tx
+__Link:__ https://github.com/diyixin01/send_a_tx
 
-## forge_signature
+## Forge-Satoshi
 
 __Project:__ forge a signature to pretend that you are Satoshi
 
-__Link:__ https://github.com/baekhunee/forge_signature
+__Link:__ https://github.com/diyixin01/Forge-Satoshi
+## MPT-report
 
-## MPT_report
 
 __Project:__ research report on MPT
 
-__Link:__ https://github.com/baekhunee/MPT_report
+__Link:__ https://github.com/diyixin01/MPT-report
 
 
+
+## zk_larger_than_425
+
+
+__Project:__ Find a 64-byte message under some  fulfilling that their hash value is symmetrical
+
+__Link:__ https://github.com/diyixin01/zk_larger_than_425
+
+## 
 
 ## 未完成项目
 1、Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. 
