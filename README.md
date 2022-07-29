@@ -8,7 +8,7 @@
 
 单位：山东大学青岛校区网络空间安全学院2020级本科1班
 
-github账户：Github账户地址：https://github.com/diyixin01
+Github账户地址：https://github.com/diyixin01
 
 
 # 项目汇总
