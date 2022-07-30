@@ -161,4 +161,4 @@ __Link:__ https://github.com/diyixin01/zk_larger_than_425
 2、Find a 64-byte message under some k fulfilling that their hash value is symmetrical.
 
 ## 运行指导
-在每个项目中均有运行指导及代码截图，若无运行指导，说明可以直接运行。
+在每个项目中均有运行指导及代码截图，若无运行指导，说明可以直接运行
