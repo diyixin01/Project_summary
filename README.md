@@ -10,19 +10,8 @@
 
 Github账户地址：https://github.com/diyixin01
 
-
-# 时间分配
-
-（最后一天为7月29日）
-
-![image](https://user-images.githubusercontent.com/75195549/181785111-3944b603-d909-4c86-926d-45fc4b401641.png)
-
-其中代码书写为5月15日-7月26日
-
-后面时间均为为实验报告整理
-
 # 项目汇总
-本次实验共完成19个项目(有些项目合并在一个仓库中)，各项目说明与仓库链接如下：
+本次实验共完成20个项目(有些项目合并在一个仓库中)，各项目说明与仓库链接如下：
 
 ## SM3-Birthday_attack
 
@@ -145,6 +134,17 @@ __Project:__ research report on MPT
 __Link:__ https://github.com/diyixin01/MPT-report
 
 
+## Hash_value
+
+
+__Project:__ Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. 
+
+__Link:__ https://github.com/diyixin01/Hash_value
+
+
+
+
+
 
 ## zk_larger_than_425
 
@@ -156,9 +156,7 @@ __Link:__ https://github.com/diyixin01/zk_larger_than_425
 ## 
 
 ## 未完成项目
-1、Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. 
-
-2、Find a 64-byte message under some k fulfilling that their hash value is symmetrical.
+Find a 64-byte message under some k fulfilling that their hash value is symmetrical.
 
 ## 运行指导
 在每个项目中均有运行指导及代码截图，若无运行指导，说明可以直接运行
